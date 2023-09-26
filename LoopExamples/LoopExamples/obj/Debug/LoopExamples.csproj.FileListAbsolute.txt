@@ -1,0 +1,6 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\LoopExamples\LoopExamples\bin\Debug\LoopExamples.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\LoopExamples\LoopExamples\bin\Debug\LoopExamples.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\LoopExamples\LoopExamples\bin\Debug\LoopExamples.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\LoopExamples\LoopExamples\obj\Debug\LoopExamples.csprojResolveAssemblyReference.cache
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\LoopExamples\LoopExamples\obj\Debug\LoopExamples.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\LoopExamples\LoopExamples\obj\Debug\LoopExamples.pdb

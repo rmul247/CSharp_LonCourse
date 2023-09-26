@@ -1,0 +1,6 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\MarsInfoApplication\MarsInfoApplication\bin\Debug\MarsInfoApplication.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\MarsInfoApplication\MarsInfoApplication\bin\Debug\MarsInfoApplication.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\MarsInfoApplication\MarsInfoApplication\bin\Debug\MarsInfoApplication.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\MarsInfoApplication\MarsInfoApplication\obj\Debug\MarsInfoApplication.csprojResolveAssemblyReference.cache
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\MarsInfoApplication\MarsInfoApplication\obj\Debug\MarsInfoApplication.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\MarsInfoApplication\MarsInfoApplication\obj\Debug\MarsInfoApplication.pdb

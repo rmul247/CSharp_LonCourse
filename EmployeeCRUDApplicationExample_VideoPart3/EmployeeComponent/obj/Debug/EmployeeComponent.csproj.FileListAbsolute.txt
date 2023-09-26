@@ -1,0 +1,6 @@
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample_VideoPart3\EmployeeComponent\bin\Debug\EmployeeComponent.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample_VideoPart3\EmployeeComponent\bin\Debug\EmployeeComponent.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample_VideoPart3\EmployeeComponent\obj\Debug\EmployeeComponent.csproj.AssemblyReference.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample_VideoPart3\EmployeeComponent\obj\Debug\EmployeeComponent.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample_VideoPart3\EmployeeComponent\obj\Debug\EmployeeComponent.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample_VideoPart3\EmployeeComponent\obj\Debug\EmployeeComponent.pdb

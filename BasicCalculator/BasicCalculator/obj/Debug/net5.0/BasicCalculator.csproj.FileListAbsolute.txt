@@ -1,0 +1,16 @@
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.deps.json
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.runtimeconfig.json
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.runtimeconfig.dev.json
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\bin\Debug\net5.0\ref\BasicCalculator.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.AssemblyInfo.cs
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\obj\Debug\net5.0\ref\BasicCalculator.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.genruntimeconfig.cache

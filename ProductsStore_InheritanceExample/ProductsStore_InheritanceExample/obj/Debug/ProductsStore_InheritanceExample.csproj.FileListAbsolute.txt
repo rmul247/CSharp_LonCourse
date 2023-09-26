@@ -1,0 +1,7 @@
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\ProductsStore_InheritanceExample\ProductsStore_InheritanceExample\bin\Debug\ProductsStore_InheritanceExample.exe.config
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\ProductsStore_InheritanceExample\ProductsStore_InheritanceExample\bin\Debug\ProductsStore_InheritanceExample.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\ProductsStore_InheritanceExample\ProductsStore_InheritanceExample\bin\Debug\ProductsStore_InheritanceExample.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\ProductsStore_InheritanceExample\ProductsStore_InheritanceExample\obj\Debug\ProductsStore_InheritanceExample.csproj.AssemblyReference.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\ProductsStore_InheritanceExample\ProductsStore_InheritanceExample\obj\Debug\ProductsStore_InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\ProductsStore_InheritanceExample\ProductsStore_InheritanceExample\obj\Debug\ProductsStore_InheritanceExample.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\ProductsStore_InheritanceExample\ProductsStore_InheritanceExample\obj\Debug\ProductsStore_InheritanceExample.pdb

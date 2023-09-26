@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PlayingWithFiles/1.0.0": {
+        "dependencies": {
+          "BasicFileHandlingCSharp": "1.0.0"
+        },
+        "runtime": {
+          "PlayingWithFiles.dll": {}
+        }
+      },
+      "BasicFileHandlingCSharp/1.0.0": {
+        "runtime": {
+          "BasicFileHandlingCSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlayingWithFiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BasicFileHandlingCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

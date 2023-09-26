@@ -1,0 +1,6 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\SwitchStatementExample\SwitchStatementExample\bin\Debug\SwitchStatementExample.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\SwitchStatementExample\SwitchStatementExample\obj\Debug\SwitchStatementExample.csprojResolveAssemblyReference.cache
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\SwitchStatementExample\SwitchStatementExample\bin\Debug\SwitchStatementExample.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\SwitchStatementExample\SwitchStatementExample\bin\Debug\SwitchStatementExample.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\SwitchStatementExample\SwitchStatementExample\obj\Debug\SwitchStatementExample.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\SwitchStatementExample\SwitchStatementExample\obj\Debug\SwitchStatementExample.pdb

@@ -1,0 +1,3 @@
+This is the first line of the file.
+This is NOT the first line
+This is the third and final line entry of content of for which text shall be appended file-wise

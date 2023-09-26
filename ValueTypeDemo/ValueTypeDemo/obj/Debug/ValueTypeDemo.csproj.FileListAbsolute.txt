@@ -1,0 +1,6 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ValueTypeDemo\ValueTypeDemo\bin\Debug\ValueTypeDemo.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ValueTypeDemo\ValueTypeDemo\bin\Debug\ValueTypeDemo.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ValueTypeDemo\ValueTypeDemo\bin\Debug\ValueTypeDemo.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ValueTypeDemo\ValueTypeDemo\obj\Debug\ValueTypeDemo.csprojResolveAssemblyReference.cache
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ValueTypeDemo\ValueTypeDemo\obj\Debug\ValueTypeDemo.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ValueTypeDemo\ValueTypeDemo\obj\Debug\ValueTypeDemo.pdb

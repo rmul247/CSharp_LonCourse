@@ -1,0 +1,6 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\OperatorOverloadExample.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\OperatorOverloadExample.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\OperatorOverloadExample.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\OperatorOverloadExample.csprojResolveAssemblyReference.cache
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\OperatorOverloadExample.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\OperatorOverloadExample.pdb

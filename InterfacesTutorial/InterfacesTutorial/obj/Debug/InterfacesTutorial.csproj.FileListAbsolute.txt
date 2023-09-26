@@ -1,0 +1,7 @@
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\InterfacesTutorial\InterfacesTutorial\bin\Debug\InterfacesTutorial.exe.config
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\InterfacesTutorial\InterfacesTutorial\bin\Debug\InterfacesTutorial.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\InterfacesTutorial\InterfacesTutorial\bin\Debug\InterfacesTutorial.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\InterfacesTutorial\InterfacesTutorial\obj\Debug\InterfacesTutorial.csproj.AssemblyReference.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\InterfacesTutorial\InterfacesTutorial\obj\Debug\InterfacesTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\InterfacesTutorial\InterfacesTutorial\obj\Debug\InterfacesTutorial.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\InterfacesTutorial\InterfacesTutorial\obj\Debug\InterfacesTutorial.pdb

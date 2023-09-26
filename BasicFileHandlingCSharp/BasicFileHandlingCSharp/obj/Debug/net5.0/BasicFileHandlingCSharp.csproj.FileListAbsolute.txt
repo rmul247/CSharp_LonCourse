@@ -1,0 +1,12 @@
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\bin\Debug\net5.0\BasicFileHandlingCSharp.deps.json
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\bin\Debug\net5.0\BasicFileHandlingCSharp.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\bin\Debug\net5.0\ref\BasicFileHandlingCSharp.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\bin\Debug\net5.0\BasicFileHandlingCSharp.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\obj\Debug\net5.0\BasicFileHandlingCSharp.csproj.AssemblyReference.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\obj\Debug\net5.0\BasicFileHandlingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\obj\Debug\net5.0\BasicFileHandlingCSharp.AssemblyInfoInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\obj\Debug\net5.0\BasicFileHandlingCSharp.AssemblyInfo.cs
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\obj\Debug\net5.0\BasicFileHandlingCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\obj\Debug\net5.0\BasicFileHandlingCSharp.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\obj\Debug\net5.0\ref\BasicFileHandlingCSharp.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicFileHandlingCSharp\BasicFileHandlingCSharp\obj\Debug\net5.0\BasicFileHandlingCSharp.pdb

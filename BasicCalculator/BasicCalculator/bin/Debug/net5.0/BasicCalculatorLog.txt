@@ -1,0 +1,38 @@
+25/09/2023 22:53:13:    at BasicCalculator.Program.Calculate(Int32 operand1, Int32 operand2, Char operatorSymbol) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 117
+   at BasicCalculator.Program.Main(String[] args) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 37
+Date: 25/09/2023 23:24:08, Exception name: CalculationResultOverflowException, Error message: Arithmetic operation resulted in an overflow., Inner exception message: Arithmetic operation resulted in an overflow., Stack trace:    at BasicCalculator.Program.Calculate(Int32 operand1, Int32 operand2, Char operatorSymbol) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 117
+   at BasicCalculator.Program.Main(String[] args) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 37
+Date: 26/09/2023 00:43:25, Exception name: FormatException, Error message: Input string was not in a correct format., Inner exception message: , Stack trace:    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at BasicCalculator.Program.ValidateOperandInput() in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 113
+Date: 26/09/2023 00:43:25, Exception name: FormatException, Error message: Input string was not in a correct format., Inner exception message: , Stack trace:    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at BasicCalculator.Program.ValidateOperandInput() in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 113
+   at BasicCalculator.Program.Main(String[] args) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 27
+Date: 26/09/2023 00:45:29, Exception name: FormatException, Error message: Input string was not in a correct format., Inner exception message: , Stack trace:    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at BasicCalculator.Program.ValidateOperandInput() in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 113
+Date: 26/09/2023 00:45:29, Exception name: FormatException, Error message: Input string was not in a correct format., Inner exception message: , Stack trace:    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at BasicCalculator.Program.ValidateOperandInput() in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 113
+   at BasicCalculator.Program.Main(String[] args) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 27
+Date: 26/09/2023 01:03:33, Exception name: BlankUserInputException, Error message: Exception of type 'BasicCalculator.BlankUserInputException' was thrown.
+Date: 26/09/2023 01:03:33, Exception name: BlankUserInputException, Error message: Exception of type 'BasicCalculator.BlankUserInputException' was thrown., Inner exception message: , Stack trace:    at BasicCalculator.Program.CheckBlankUserInput(String userInput) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 142
+   at BasicCalculator.Program.ValidateOperandInput() in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 119
+   at BasicCalculator.Program.Main(String[] args) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 27
+Date: 26/09/2023 01:18:39, Exception name: BlankUserInputException, Error message: Exception of type 'BasicCalculator.BlankUserInputException' was thrown.
+Date: 26/09/2023 01:18:39, Exception name: BlankUserInputException, Error message: Exception of type 'BasicCalculator.BlankUserInputException' was thrown., Inner exception message: , Stack trace:    at BasicCalculator.Program.CheckBlankUserInput(String userInput) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 189
+   at BasicCalculator.Program.ValidateOperatorInput() in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 120
+   at BasicCalculator.Program.Main(String[] args) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 33
+Date: 26/09/2023 01:19:42, Exception name: BlankUserInputException, Error message: Exception of type 'BasicCalculator.BlankUserInputException' was thrown.
+Date: 26/09/2023 01:19:42, Exception name: BlankUserInputException, Error message: Exception of type 'BasicCalculator.BlankUserInputException' was thrown., Inner exception message: , Stack trace:    at BasicCalculator.Program.CheckBlankUserInput(String userInput) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 189
+   at BasicCalculator.Program.ValidateOperatorInput() in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 120
+   at BasicCalculator.Program.Main(String[] args) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 33
+Date: 26/09/2023 01:20:48, Exception name: BlankUserInputException, Error message: Exception of type 'BasicCalculator.BlankUserInputException' was thrown.
+Date: 26/09/2023 01:22:42, Exception name: ArgumentException, Error message: operatorSymbol is invalid. (Parameter 'OPERATORSYMBOL'), Inner exception message: Operation is not valid due to the current state of the object., Stack trace:    at BasicCalculator.Program.Calculate(Int32 operand1, Int32 operand2, Char operatorSymbol) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 247
+   at BasicCalculator.Program.Main(String[] args) in C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\BasicCalculator\BasicCalculator\Program.cs:line 37
+, ParamName: OPERATORSYMBOL

@@ -1,0 +1,5 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\CSharpOperatorExamples\CSharpOperatorExamples\bin\Debug\CSharpOperatorExamples.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\CSharpOperatorExamples\CSharpOperatorExamples\bin\Debug\CSharpOperatorExamples.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\CSharpOperatorExamples\CSharpOperatorExamples\bin\Debug\CSharpOperatorExamples.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\CSharpOperatorExamples\CSharpOperatorExamples\obj\Debug\CSharpOperatorExamples.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\CSharpOperatorExamples\CSharpOperatorExamples\obj\Debug\CSharpOperatorExamples.pdb

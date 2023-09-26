@@ -1,0 +1,6 @@
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\DocumentManagementSystem\DocumentManagementSystemAPI\bin\Debug\DocumentManagementSystemAPI.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\DocumentManagementSystem\DocumentManagementSystemAPI\bin\Debug\DocumentManagementSystemAPI.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\DocumentManagementSystemAPI.csproj.AssemblyReference.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\DocumentManagementSystemAPI.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\DocumentManagementSystemAPI.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\DocumentManagementSystemAPI.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\CircleInSquareApplication\CircleInSquareApplication\bin\Debug\CircleInSquareApplication.exe.config
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\CircleInSquareApplication\CircleInSquareApplication\bin\Debug\CircleInSquareApplication.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\CircleInSquareApplication\CircleInSquareApplication\bin\Debug\CircleInSquareApplication.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\CircleInSquareApplication\CircleInSquareApplication\obj\Debug\CircleInSquareApplication.csproj.AssemblyReference.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\CircleInSquareApplication\CircleInSquareApplication\obj\Debug\CircleInSquareApplication.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\CircleInSquareApplication\CircleInSquareApplication\obj\Debug\CircleInSquareApplication.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\CircleInSquareApplication\CircleInSquareApplication\obj\Debug\CircleInSquareApplication.pdb

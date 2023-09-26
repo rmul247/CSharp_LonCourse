@@ -1,0 +1,6 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\enumFlagsExample\enumFlagsExample\bin\Debug\enumFlagsExample.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\enumFlagsExample\enumFlagsExample\bin\Debug\enumFlagsExample.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\enumFlagsExample\enumFlagsExample\bin\Debug\enumFlagsExample.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\enumFlagsExample\enumFlagsExample\obj\Debug\enumFlagsExample.csprojResolveAssemblyReference.cache
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\enumFlagsExample\enumFlagsExample\obj\Debug\enumFlagsExample.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\enumFlagsExample\enumFlagsExample\obj\Debug\enumFlagsExample.pdb

@@ -1,0 +1,11 @@
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\OfficeBuildingAutomation1\OfficeBuildingAutomation1\obj\Debug\OfficeBuildingAutomation1.csproj.AssemblyReference.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\OfficeBuildingAutomation1\OfficeBuildingAutomation1\obj\Debug\OfficeBuildingAutomation1.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\OfficeBuildingAutomation1\OfficeBuildingAutomation1\bin\Debug\OfficeBuildingAutomation1.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\OfficeBuildingAutomation1\OfficeBuildingAutomation1\bin\Debug\OfficeBuildingAutomationAPI.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\OfficeBuildingAutomation1\OfficeBuildingAutomation1\bin\Debug\OfficeBuildingAutomationAPI.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\OfficeBuildingAutomation1\OfficeBuildingAutomation1\bin\Debug\OfficeBuildingAutomationAPI.dll.config
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\OfficeBuildingAutomation1\OfficeBuildingAutomation1\obj\Debug\OfficeBuildingAutomation1.csproj.CopyComplete
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\OfficeBuildingAutomation1\OfficeBuildingAutomation1\obj\Debug\OfficeBuildingAutomation1.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\OfficeBuildingAutomation1\OfficeBuildingAutomation1\bin\Debug\OfficeBuildingAutomation1.exe.config
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\OfficeBuildingAutomation1\OfficeBuildingAutomation1\bin\Debug\OfficeBuildingAutomation1.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\OfficeBuildingAutomation1\OfficeBuildingAutomation1\obj\Debug\OfficeBuildingAutomation1.exe

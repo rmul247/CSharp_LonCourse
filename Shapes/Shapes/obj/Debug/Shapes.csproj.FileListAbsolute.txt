@@ -1,0 +1,7 @@
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\Shapes\Shapes\obj\Debug\Shapes.pdb

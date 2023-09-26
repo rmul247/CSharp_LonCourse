@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "BasicFileHandlingCSharp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BasicFileHandlingCSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BasicFileHandlingCSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicFileHandlingCSharp/1.0.0": {
+      "type": "project",
+      "path": "../BasicFileHandlingCSharp/BasicFileHandlingCSharp.csproj",
+      "msbuildProject": "../BasicFileHandlingCSharp/BasicFileHandlingCSharp.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "BasicFileHandlingCSharp >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Andrew Mulcahy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Andrew Mulcahy\\Documents\\Programming\\C#\\Lon Course\\BasicFileHandlingCSharp\\PlayingWithFiles\\PlayingWithFiles.csproj",
+      "projectName": "PlayingWithFiles",
+      "projectPath": "C:\\Users\\Andrew Mulcahy\\Documents\\Programming\\C#\\Lon Course\\BasicFileHandlingCSharp\\PlayingWithFiles\\PlayingWithFiles.csproj",
+      "packagesPath": "C:\\Users\\Andrew Mulcahy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andrew Mulcahy\\Documents\\Programming\\C#\\Lon Course\\BasicFileHandlingCSharp\\PlayingWithFiles\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Andrew Mulcahy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Andrew Mulcahy\\Documents\\Programming\\C#\\Lon Course\\BasicFileHandlingCSharp\\BasicFileHandlingCSharp\\BasicFileHandlingCSharp.csproj": {
+              "projectPath": "C:\\Users\\Andrew Mulcahy\\Documents\\Programming\\C#\\Lon Course\\BasicFileHandlingCSharp\\BasicFileHandlingCSharp\\BasicFileHandlingCSharp.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

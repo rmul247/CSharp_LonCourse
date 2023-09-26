@@ -1,0 +1,6 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\StringExamples\StringExamples\bin\Debug\StringExamples.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\StringExamples\StringExamples\bin\Debug\StringExamples.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\StringExamples\StringExamples\bin\Debug\StringExamples.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\StringExamples\StringExamples\obj\Debug\StringExamples.csprojResolveAssemblyReference.cache
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\StringExamples\StringExamples\obj\Debug\StringExamples.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\StringExamples\StringExamples\obj\Debug\StringExamples.pdb

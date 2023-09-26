@@ -1,0 +1,6 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArrayExamples\ArrayExamples\bin\Debug\ArrayExamples.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArrayExamples\ArrayExamples\bin\Debug\ArrayExamples.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArrayExamples\ArrayExamples\bin\Debug\ArrayExamples.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArrayExamples\ArrayExamples\obj\Debug\ArrayExamples.csprojResolveAssemblyReference.cache
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArrayExamples\ArrayExamples\obj\Debug\ArrayExamples.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArrayExamples\ArrayExamples\obj\Debug\ArrayExamples.pdb

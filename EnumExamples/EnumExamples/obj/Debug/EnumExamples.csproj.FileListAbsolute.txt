@@ -1,0 +1,13 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\EnumExamples\EnumExamples\bin\Debug\EnumExamples.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\EnumExamples\EnumExamples\bin\Debug\EnumExamples.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\EnumExamples\EnumExamples\bin\Debug\EnumExamples.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\EnumExamples\EnumExamples\obj\Debug\EnumExamples.csprojResolveAssemblyReference.cache
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\EnumExamples\EnumExamples\obj\Debug\EnumExamples.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\EnumExamples\EnumExamples\obj\Debug\EnumExamples.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EnumExamples\EnumExamples\bin\Debug\EnumExamples.exe.config
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EnumExamples\EnumExamples\bin\Debug\EnumExamples.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EnumExamples\EnumExamples\bin\Debug\EnumExamples.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EnumExamples\EnumExamples\obj\Debug\EnumExamples.csproj.AssemblyReference.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EnumExamples\EnumExamples\obj\Debug\EnumExamples.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EnumExamples\EnumExamples\obj\Debug\EnumExamples.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EnumExamples\EnumExamples\obj\Debug\EnumExamples.pdb

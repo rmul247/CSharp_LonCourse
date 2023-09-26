@@ -1,0 +1,10 @@
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample\EmployeeCRUDApplicationExample\bin\Debug\EmployeeCRUDApplicationExample.exe.config
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample\EmployeeCRUDApplicationExample\bin\Debug\EmployeeCRUDApplicationExample.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample\EmployeeCRUDApplicationExample\bin\Debug\EmployeeCRUDApplicationExample.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample\EmployeeCRUDApplicationExample\obj\Debug\EmployeeCRUDApplicationExample.csproj.AssemblyReference.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample\EmployeeCRUDApplicationExample\obj\Debug\EmployeeCRUDApplicationExample.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample\EmployeeCRUDApplicationExample\obj\Debug\EmployeeCRUDApplicationExample.exe
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample\EmployeeCRUDApplicationExample\obj\Debug\EmployeeCRUDApplicationExample.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample\EmployeeCRUDApplicationExample\bin\Debug\EmployeeComponent.dll
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample\EmployeeCRUDApplicationExample\bin\Debug\EmployeeComponent.pdb
+C:\Users\Andrew Mulcahy\Documents\Programming\C#\Lon Course\EmployeeCRUDApplicationExample\EmployeeCRUDApplicationExample\obj\Debug\EmployeeCRUDApplicationExample.csproj.CopyComplete

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicFileHandlingCSharp", "BasicFileHandlingCSharp\BasicFileHandlingCSharp.csproj", "{FE164A94-0740-4DF5-9528-DF6156BEF6D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingWithFiles", "PlayingWithFiles\PlayingWithFiles.csproj", "{C3EA2451-25FC-433C-A186-5FF4B75397E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE164A94-0740-4DF5-9528-DF6156BEF6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE164A94-0740-4DF5-9528-DF6156BEF6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE164A94-0740-4DF5-9528-DF6156BEF6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE164A94-0740-4DF5-9528-DF6156BEF6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3EA2451-25FC-433C-A186-5FF4B75397E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3EA2451-25FC-433C-A186-5FF4B75397E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3EA2451-25FC-433C-A186-5FF4B75397E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3EA2451-25FC-433C-A186-5FF4B75397E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41263BD-4462-4856-82BD-C9E6D9FA8B33}
+	EndGlobalSection
+EndGlobal

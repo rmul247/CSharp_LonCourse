@@ -1,0 +1,6 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\DataTypeConversionDemo\DataTypeConversionDemo\bin\Debug\DataTypeConversionDemo.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\DataTypeConversionDemo\DataTypeConversionDemo\bin\Debug\DataTypeConversionDemo.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\DataTypeConversionDemo\DataTypeConversionDemo\bin\Debug\DataTypeConversionDemo.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\DataTypeConversionDemo\DataTypeConversionDemo\obj\Debug\DataTypeConversionDemo.csprojResolveAssemblyReference.cache
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\DataTypeConversionDemo\DataTypeConversionDemo\obj\Debug\DataTypeConversionDemo.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\DataTypeConversionDemo\DataTypeConversionDemo\obj\Debug\DataTypeConversionDemo.pdb

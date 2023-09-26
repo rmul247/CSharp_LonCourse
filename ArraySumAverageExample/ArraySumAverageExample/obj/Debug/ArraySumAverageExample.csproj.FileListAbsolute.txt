@@ -1,0 +1,6 @@
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArraySumAverageExample\ArraySumAverageExample\bin\Debug\ArraySumAverageExample.exe.config
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArraySumAverageExample\ArraySumAverageExample\bin\Debug\ArraySumAverageExample.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArraySumAverageExample\ArraySumAverageExample\bin\Debug\ArraySumAverageExample.pdb
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArraySumAverageExample\ArraySumAverageExample\obj\Debug\ArraySumAverageExample.csprojResolveAssemblyReference.cache
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArraySumAverageExample\ArraySumAverageExample\obj\Debug\ArraySumAverageExample.exe
+c:\users\andrew mulcahy\documents\visual studio 2015\Projects\ArraySumAverageExample\ArraySumAverageExample\obj\Debug\ArraySumAverageExample.pdb
